@@ -1,6 +1,6 @@
 ---
 title: "🚀 How to Launch an EC2 Instance in the New AWS Console"
-seoTitle: "Launch EC2 Instance: New AWS Console Guide"
+seoTitle: "How to launch an ec2 instance with new aws console"
 seoDescription: "Learn how to launch an EC2 instance in AWS Console effortlessly with this step-by-step guide for deploying, hosting, and scaling resources"
 datePublished: Wed Dec 11 2024 03:12:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm4jbe9rx000008mh89r8brtw
