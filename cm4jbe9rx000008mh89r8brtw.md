@@ -161,7 +161,7 @@ Launching an EC2 instance is the first step towards harnessing the power of clou
     sudo yum -y install httpd
     sudo systemctl start httpd
     sudo systemctl enable httpd
-    echo "<h1>My instance is running</h1>" | sudo tee /var/www/html/index.html
+    echo "<h1>My instance is running</h1>" >> /var/www/html/index.html
     sudo systemctl restart httpd
     ```
     
